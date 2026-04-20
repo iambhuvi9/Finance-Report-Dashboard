@@ -22,8 +22,6 @@ This project presents an interactive Finance Dashboard built in Power BI to anal
 - Profit: 16.89M
 - Units Sold: 1.13M
 
-# Dashboard Preview
-Project 3 (Dashboard-Image)
 
 # Key Insights
 - Paseo product generates highest sales
